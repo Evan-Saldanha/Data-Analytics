@@ -1,0 +1,12 @@
+Analysis of a flight data set and predicting the price for test data given. The data set is taken from Kaggale site.
+Programming language: Python
+Steps involved:
+  1.Data Preparation
+  2.EDA
+  3.Feature Extraction
+  4.Modeling
+  5.Hyper Parameter Tuning
+  6.Test Data Price Prediction
+  
+Model used: Random forest
+Tool: Jupyter Notebook

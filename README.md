@@ -1,2 +1,2 @@
 # Data-Analytics
- Projects reated to ML or Data Mining
+ Projects related to ML or Data Mining
